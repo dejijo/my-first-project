@@ -8,4 +8,4 @@ This is my first project using HTML, YAML, and GitHub.
 - GitHub integration
 
 ## Author
-Your Name
+dejijo
